@@ -1,0 +1,17 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1763654213
+Green.png::CompressedTexture2D/CompressedTexture2D::4541956982298727874::1757854634::1757854635::1::::<><><>0<>0<>043ae348b6f3ed64c5e5bf849cf29289<>res://.godot/imported/Green.png-a73a03d0a1febdb864b00265fc9002a0.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::7429293426516991912::1757854475::1757854482::1::::<><><>0<>0<>9e22f7eae02053ed198160b6c0fc476d<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+main.tscn::PackedScene::532226369096598327::1763566034::0::1::::<><><>0<>0<><>::uid://b5yfmrklx0vvm::::res://Green.png<>uid://bg4k8gabtuudj::::res://Terrain (16x16).png<>uid://db0715gu2vo40::::res://scenes/main_character.tscn
+Terrain (16x16).png::CompressedTexture2D/CompressedTexture2D::2868087116727291055::1757854618::1757854618::1::::<><><>0<>0<>c19dcdae6c41038efdd25ac6b7104c4f<>res://.godot/imported/Terrain (16x16).png-f072e8a5f99e915c05031c83401c87a9.ctex::
+::res://Ninja Frog/::1757856464
+Double Jump (32x32).png::CompressedTexture2D/CompressedTexture2D::2853260778406510369::1757856464::1757856464::1::::<><><>0<>0<>c79a38ccdd59ee85eb80955daec64d23<>res://.godot/imported/Double Jump (32x32).png-6d81160c341abb5d606b0498e5dbd32b.ctex::
+Fall (32x32).png::CompressedTexture2D/CompressedTexture2D::2673055542186123065::1757856464::1757856464::1::::<><><>0<>0<>c9f19d0ccbdd2178e841b0e74072df6f<>res://.godot/imported/Fall (32x32).png-1872108220628e2687af32ebc9d6f58a.ctex::
+Hit (32x32).png::CompressedTexture2D/CompressedTexture2D::3171292118968507070::1757856464::1757856464::1::::<><><>0<>0<>62a6081544f7c8ecd53df7c0d3aa83d5<>res://.godot/imported/Hit (32x32).png-ea9e7a725510329c622243dc358ed538.ctex::
+Idle (32x32).png::CompressedTexture2D/CompressedTexture2D::6179168952873626681::1757856464::1757856464::1::::<><><>0<>0<>a06c4aca4d750b837852e8ac3752bda2<>res://.godot/imported/Idle (32x32).png-9bf6b2dd66763e512233dcf7b35db6e8.ctex::
+Jump (32x32).png::CompressedTexture2D/CompressedTexture2D::1601794823535976498::1757856464::1757856464::1::::<><><>0<>0<>2b258ff9cec117266fa4ff6bcceb6c6c<>res://.godot/imported/Jump (32x32).png-5d916cf8b2c773ccb0a649f97dbfe2ac.ctex::
+Run (32x32).png::CompressedTexture2D/CompressedTexture2D::8539503462716621833::1757856464::1757856464::1::::<><><>0<>0<>96c67f4538cc47dc61422e5e33e81a43<>res://.godot/imported/Run (32x32).png-05e43f31eeded58cc68886d287d5adf2.ctex::
+Wall Jump (32x32).png::CompressedTexture2D/CompressedTexture2D::8783945887152078781::1757856464::1757856464::1::::<><><>0<>0<>4d69d81c185dcd556e231f8f5e991edd<>res://.godot/imported/Wall Jump (32x32).png-bc4e0c44595121dacdcce2d06dc6b346.ctex::
+::res://scenes/::1763566034
+main_character.gd::GDScript/GDScript::2100291365874847076::1757872298::0::1::::<>CharacterBody2D<><>0<>0<><>::
+main_character.tscn::PackedScene::7283051298893847043::1763566034::0::1::::<><><>0<>0<><>::uid://46nqyxgsbbm7::::res://scenes/main_character.gd<>uid://cubialn1hpj6p::::res://Ninja Frog/Idle (32x32).png<>uid://w26ldxlw5nti::::res://Ninja Frog/Jump (32x32).png<>uid://dtwumy2gal3jp::::res://Ninja Frog/Run (32x32).png
